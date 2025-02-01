@@ -60,6 +60,8 @@ Com o Maven instalado, execute o seguinte comando para compilar o projeto:
 -Após a compilação, execute o aplicativo Spring Boot com o seguinte comando:
 
     mvn spring-boot:run
+    
+Ou execute a class main.
 
 -O servidor Spring Boot será iniciado na porta 8081 por padrão.
 
@@ -77,9 +79,9 @@ Após iniciar o servidor, acesse a documentação da API e as rotas da aplicaç�
 _________________________________________________________
 **Testando a aplicação**
 
-A aplicação já vem com uma suíte de testes unitários utilizando JUnit. Para rodá-los, basta executar o comando:*
+A aplicação já vem com uma suíte de testes unitários utilizando JUnit. Para rodá-los, basta ir na pasta test e compilar os teste.
 
-    mvn test
+na pasta: *sistema-gerenciamento-tarefas\src\test\java\com\myTask\sistema_gerenciamento_tarefas*
 
 _________________________________________________________
 **Endpoints da API**
