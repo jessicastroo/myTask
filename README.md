@@ -69,7 +69,7 @@ A aplicação já vem com uma suíte de testes unitários utilizando JUnit. Para
 
     mvn test
 
-
+_________________________________________________________
 *Endpoints da API
 A aplicação oferece endpoints para gerenciar tarefas e usuários. Todos os endpoints estão documentados no Swagger, mas abaixo estão alguns exemplos de uso:*
 
