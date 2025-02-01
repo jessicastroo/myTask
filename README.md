@@ -1,6 +1,7 @@
   *Sistema de Gerenciamento de Tarefas*
-Este projeto é um sistema de gerenciamento de tarefas construído com Java 17, Spring Boot, PostgreSQL, JPA/Hibernate, e JUnit para testes. O projeto também utiliza o Swagger para documentar a API.
+O Sistema de Gerenciamento de Tarefas é uma aplicação construída com Java 17, Spring Boot e PostgreSQL, com o objetivo de fornecer uma solução simples e eficiente para o gerenciamento de tarefas. A aplicação permite aos usuários criar, editar, visualizar, excluir e filtrar tarefas, além de gerenciar informações dos usuários responsáveis por essas tarefas.
 
+_____________________________________________________
   *Como Rodar o Projeto Localmente*
   Siga as instruções abaixo para rodar o projeto em sua máquina local.
 
